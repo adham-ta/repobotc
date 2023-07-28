@@ -599,16 +599,13 @@ span.navigation:before {
     font-weight: 500;
     text-transform: uppercase;
 }
-
 .footer {
     margin-top:4rem;
     padding:30px 0;
     ul li {
         display: inline-block;
         padding:10px;
-    }
-}
-
+    }}
 .hover-opacity:hover {
     transition: all.3s;
     opacity:.8;
